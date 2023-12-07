@@ -4,7 +4,7 @@ Copyright © 2023 Daniel daniel-vuky@gmail.com
 package cmd
 
 import (
-	"anhvdk/weather-and-time-cli/config"
+	"github.com/daniel-vuky/weather-and-time-golang-cli/config"
 	"github.com/spf13/cobra"
 )
 
