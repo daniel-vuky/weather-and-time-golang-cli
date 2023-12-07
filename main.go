@@ -3,7 +3,7 @@ Copyright © 2023 Daniel daniel-vuky@gmail.com
 */
 package main
 
-import "anhvdk/weather-and-time-cli/cmd"
+import "github.com/daniel-vuky/weather-and-time-golang-cli/cmd"
 
 func main() {
 	cmd.Execute()

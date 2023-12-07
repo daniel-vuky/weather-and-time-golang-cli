@@ -1,9 +1,9 @@
 package weatherAndTime
 
 import (
-	"anhvdk/weather-and-time-cli/config"
 	"encoding/json"
 	"fmt"
+	"github.com/daniel-vuky/weather-and-time-golang-cli/config"
 	"io"
 	"net/http"
 	"net/url"
